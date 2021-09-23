@@ -18,8 +18,10 @@ function App() {
                     age: 27
                 }} 
                 prop_func={ messageFromChild }>
+
                 <h4>Children</h4>
                 <p>자식 컴포넌트</p>
+                
                 </PropClass>
                 <h2>Props in Function Component</h2>
                 <PropFunc
