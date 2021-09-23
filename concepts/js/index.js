@@ -63,7 +63,7 @@ ReactDOM.render(
     <div>
         <Welcome message="Custom Component">
             <p>이것은 사용자 정의 컴포넌트 입니다.</p>
-            </Welcome>
+        </Welcome>
         <HelloButton>React Function Button</HelloButton>
         <HelloButtonClass>React Class Button</HelloButtonClass>
     </div>,
