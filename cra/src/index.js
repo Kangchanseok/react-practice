@@ -2,10 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 // import App from './App';
-// import App from './App.props'; // props 테스트
-// import App from "./App.state"; // State 테스트
-// import App from "./App.function"; // 함수형 컴포넌트 테스트
-import App from "./App.ref" // Ref 테스트
+// import App from './App.props'; //  Props 테스트
+// import App from './App.state';    //  State 테스트
+// import App from './App.function';   //  함수형 컴포넌트 테스트
+// import App from './App.ref';  //  Ref Test
+import App from './App.context';  //  Context API 테스트
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
